@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@keyv/mongo": "^1.1.0",
+    "@keyv/mongo": "^1.2.3",
     "csv-parser": "^2.2.0",
-    "eslint": "^5.16.0",
-    "googleapis": "^39.2.0",
+    "eslint": "^9.34.0",
+    "googleapis": "^159.0.0",
     "keyv": "^3.1.0"
   }
 }
